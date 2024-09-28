@@ -15,3 +15,11 @@
 div {
     color: black;
  }
+ img {
+    touch-action: auto;
+    border: color(srgb red green blue);
+ }
+ol {
+    ruby-position: after;
+    text-decoration: dotted;
+}
