@@ -13,3 +13,9 @@ div {
     color: red;
     
 }
+p {
+    color: red;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    
+}
