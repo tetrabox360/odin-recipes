@@ -1,0 +1,15 @@
+div {
+    background-color: black;
+    color: white;
+}
+#title {
+    color: red;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: black;
+}
+
+.altbaslik {
+    color: red;
+    
+}
